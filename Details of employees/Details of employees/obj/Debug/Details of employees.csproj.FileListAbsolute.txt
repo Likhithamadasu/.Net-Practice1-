@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Details of employees\Details of employees\bin\Debug\Details of employees.exe.config
+C:\Users\DELL\source\repos\Details of employees\Details of employees\bin\Debug\Details of employees.exe
+C:\Users\DELL\source\repos\Details of employees\Details of employees\bin\Debug\Details of employees.pdb
+C:\Users\DELL\source\repos\Details of employees\Details of employees\obj\Debug\Details of employees.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Details of employees\Details of employees\obj\Debug\Details of employees.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Details of employees\Details of employees\obj\Debug\Details of employees.exe
+C:\Users\DELL\source\repos\Details of employees\Details of employees\obj\Debug\Details of employees.pdb

@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\order menu program\order menu program\bin\Debug\order menu program.exe.config
+C:\Users\DELL\source\repos\order menu program\order menu program\bin\Debug\order menu program.exe
+C:\Users\DELL\source\repos\order menu program\order menu program\bin\Debug\order menu program.pdb
+C:\Users\DELL\source\repos\order menu program\order menu program\obj\Debug\order menu program.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\order menu program\order menu program\obj\Debug\order menu program.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\order menu program\order menu program\obj\Debug\order menu program.exe
+C:\Users\DELL\source\repos\order menu program\order menu program\obj\Debug\order menu program.pdb

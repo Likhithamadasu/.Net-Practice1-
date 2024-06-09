@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Stack Operations\Stack Operations\bin\Debug\Stack Operations.exe.config
+C:\Users\DELL\source\repos\Stack Operations\Stack Operations\bin\Debug\Stack Operations.exe
+C:\Users\DELL\source\repos\Stack Operations\Stack Operations\bin\Debug\Stack Operations.pdb
+C:\Users\DELL\source\repos\Stack Operations\Stack Operations\obj\Debug\Stack Operations.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Stack Operations\Stack Operations\obj\Debug\Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Stack Operations\Stack Operations\obj\Debug\Stack Operations.exe
+C:\Users\DELL\source\repos\Stack Operations\Stack Operations\obj\Debug\Stack Operations.pdb

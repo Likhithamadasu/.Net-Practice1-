@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\menu 1 program\menu 1 program\bin\Debug\menu 1 program.exe.config
+C:\Users\DELL\source\repos\menu 1 program\menu 1 program\bin\Debug\menu 1 program.exe
+C:\Users\DELL\source\repos\menu 1 program\menu 1 program\bin\Debug\menu 1 program.pdb
+C:\Users\DELL\source\repos\menu 1 program\menu 1 program\obj\Debug\menu 1 program.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\menu 1 program\menu 1 program\obj\Debug\menu 1 program.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\menu 1 program\menu 1 program\obj\Debug\menu 1 program.exe
+C:\Users\DELL\source\repos\menu 1 program\menu 1 program\obj\Debug\menu 1 program.pdb

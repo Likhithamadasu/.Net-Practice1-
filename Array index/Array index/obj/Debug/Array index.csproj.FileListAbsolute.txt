@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Array index\Array index\bin\Debug\Array index.exe.config
+C:\Users\DELL\source\repos\Array index\Array index\bin\Debug\Array index.exe
+C:\Users\DELL\source\repos\Array index\Array index\bin\Debug\Array index.pdb
+C:\Users\DELL\source\repos\Array index\Array index\obj\Debug\Array index.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Array index\Array index\obj\Debug\Array index.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Array index\Array index\obj\Debug\Array index.exe
+C:\Users\DELL\source\repos\Array index\Array index\obj\Debug\Array index.pdb

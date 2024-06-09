@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Access modifiers1\Access modifiers1\bin\Debug\Access modifiers1.exe.config
+C:\Users\DELL\source\repos\Access modifiers1\Access modifiers1\bin\Debug\Access modifiers1.exe
+C:\Users\DELL\source\repos\Access modifiers1\Access modifiers1\bin\Debug\Access modifiers1.pdb
+C:\Users\DELL\source\repos\Access modifiers1\Access modifiers1\obj\Debug\Access modifiers1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Access modifiers1\Access modifiers1\obj\Debug\Access modifiers1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Access modifiers1\Access modifiers1\obj\Debug\Access modifiers1.exe
+C:\Users\DELL\source\repos\Access modifiers1\Access modifiers1\obj\Debug\Access modifiers1.pdb

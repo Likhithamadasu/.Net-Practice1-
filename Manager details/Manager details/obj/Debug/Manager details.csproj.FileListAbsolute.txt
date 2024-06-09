@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Manager details\Manager details\bin\Debug\Manager details.exe.config
+C:\Users\DELL\source\repos\Manager details\Manager details\bin\Debug\Manager details.exe
+C:\Users\DELL\source\repos\Manager details\Manager details\bin\Debug\Manager details.pdb
+C:\Users\DELL\source\repos\Manager details\Manager details\obj\Debug\Manager details.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Manager details\Manager details\obj\Debug\Manager details.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Manager details\Manager details\obj\Debug\Manager details.exe
+C:\Users\DELL\source\repos\Manager details\Manager details\obj\Debug\Manager details.pdb

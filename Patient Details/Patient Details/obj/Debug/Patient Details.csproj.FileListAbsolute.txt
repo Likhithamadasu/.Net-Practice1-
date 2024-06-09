@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Patient Details\Patient Details\bin\Debug\Patient Details.exe.config
+C:\Users\DELL\source\repos\Patient Details\Patient Details\bin\Debug\Patient Details.exe
+C:\Users\DELL\source\repos\Patient Details\Patient Details\bin\Debug\Patient Details.pdb
+C:\Users\DELL\source\repos\Patient Details\Patient Details\obj\Debug\Patient Details.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Patient Details\Patient Details\obj\Debug\Patient Details.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Patient Details\Patient Details\obj\Debug\Patient Details.exe
+C:\Users\DELL\source\repos\Patient Details\Patient Details\obj\Debug\Patient Details.pdb
